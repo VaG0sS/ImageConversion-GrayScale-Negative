@@ -1,6 +1,4 @@
 /**
- * Make copies of all images selected within a directory (or folder).
- * 
  * @author -salimt
  */
 
